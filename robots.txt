@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-it70v8.trans88.online/sitemap.xml
